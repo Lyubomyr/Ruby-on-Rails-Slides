@@ -1,11 +1,9 @@
-title: RubyGarage Slides
-email: info@rubygarage.org
+title: Ruby on Rails Slides
 description: >
 baseurl: ""
-url: "https://rubygarage.github.io"
-repository: "rubygarage/slides"
-twitter_username: timlar_ua
-github_username: timlar
+url: "https://lyubomyr.github.io"
+repository: "lyubomyr/Ruby-on-Rails-Slides"
+github_username: lyubomyr
 
 ######################################################################################################################
 #                                           DO NOT EDIT SETTINGS BELOW !!!                                           #
